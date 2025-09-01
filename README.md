@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riddhi Gangapurkar</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="coding" width="400" src="img.gif"
-<p align="left"> <img src="img.gif" alt="riddhigangapurkar" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="riddhigangapurkar" /> </p>
 
 - 🌱 I’m currently learning **python**
 
